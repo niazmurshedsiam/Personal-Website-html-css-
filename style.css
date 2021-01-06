@@ -68,6 +68,8 @@ p {
   float: left;
   margin-left: 5%;
   margin-top: 5%;
+  background-position: center;
+  background-repeat: no-repeat;
   
 }
 .half-width img {
@@ -99,7 +101,7 @@ p {
     #ffffff, #F5F8FD);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 800px;
 }
 .banner-4 {
   height: 400px;
