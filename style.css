@@ -13,6 +13,18 @@ h2 {
 p {
   color: dimgrey;
 }
+.nav-section{
+  height: 100px;
+}
+.nav-style{
+  float: right;
+  margin: 40px 40px 80px;
+  
+}
+.nav-link-lighlight{
+  text-decoration: none;
+  color: black;
+}
 .lightsalmon-highlight {
   color: lightsalmon;
 }
@@ -103,7 +115,14 @@ h3 {
   margin-right: 10px;
 }
 
-footer h6 h3{
-    text-align: center;
-    color: dimgrey;
+footer h4{
+  text-align: center;
+  font-size: 20px;
 }
+.fooder-p{
+  text-align: center;
+}
+
+
+
+
