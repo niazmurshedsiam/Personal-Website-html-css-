@@ -20,11 +20,14 @@ p {
 .nav-style{
   float: right;
   margin: 40px 40px 80px;
+ 
   
 }
 .nav-link-lighlight{
   text-decoration: none;
   color: black;
+  margin: 10px 10px 20px;
+  padding: 10px 10px 20px;
 }
 .lightsalmon-highlight {
   color: lightsalmon;
@@ -71,6 +74,8 @@ p {
   text-align: center;
   font-weight: 900;
   color: dimgrey;
+  padding-bottom: 5%;
+    padding-top: 8%;
 }
 .latestwork {
   box-shadow: 10px 10px 40px gray;
@@ -85,9 +90,11 @@ p {
   text-align: justify;
 }
 .banner3 {
-  height: 500px;
-  background-image: linear-gradient(Wheat);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(45deg, 
+    #ffffff, #F5F8FD);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
 }
 .banner-4 {
   height: 400px;
@@ -115,6 +122,7 @@ h3 {
   padding: 10px 20px;
   color: white;
   margin-right: 10px;
+  
 }
 
 footer h4{
