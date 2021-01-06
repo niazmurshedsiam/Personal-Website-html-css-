@@ -3,13 +3,19 @@ body {
   margin: 0;
 }
 h1 {
-  font-size: 70px;
+  font-size: 50px;
   margin-top: 30%;
+  padding: 0px;
+  margin-bottom: 0px;
+  font-weight: normal;
 }
 h2 {
   font-size: 40px;
-  margin-top: 50%;
-  color: dimgrey;
+  margin-top: 20%;
+  color: dimgrey; 
+  padding: 0px;
+  margin-bottom: 0px;
+  font-weight: normal;
 }
 p {
   color: dimgrey;
@@ -51,7 +57,7 @@ p {
   color: white;
 }
 .top-banner {
-  height: 500px;
+  height: 700px;
 }
 .middle-banner {
   height: 500px;
@@ -62,8 +68,7 @@ p {
   float: left;
   margin-left: 5%;
   margin-top: 5%;
-  background-position: center;
-  background-repeat: no-repeat;
+  
 }
 .half-width img {
   width: 100%;
@@ -94,7 +99,7 @@ p {
     #ffffff, #F5F8FD);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 800px;
+    height: 700px;
 }
 .banner-4 {
   height: 400px;
