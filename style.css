@@ -3,7 +3,8 @@ body {
   margin: 0;
 }
 h1 {
-  font-size: 72px;
+  font-size: 70px;
+  margin-top: 30%;
 }
 h2 {
   font-size: 40px;
@@ -37,6 +38,7 @@ p {
 }
 .half-middle img {
   width: 100%;
+
 }
 .top-link {
   text-decoration: none;
